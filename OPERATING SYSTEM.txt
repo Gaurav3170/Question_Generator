@@ -1,0 +1,4 @@
+What do you mean by FCFS?::E
+How do you implement Priority Scheduling?::M
+Explain the different types of Scheduling?::H
+What do you mean by Round Robin Scheduling?::M

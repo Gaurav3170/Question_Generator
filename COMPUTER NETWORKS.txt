@@ -1,0 +1,99 @@
+What is a Link?::E
+What are the layers of tthe OSI refernce model?::E
+What is backbone network?::E
+What is a LAN?::E
+What is a node?::E
+What are routers?::E
+What is point to point link?::E
+What is anonymous FTP?::E
+What is subnet mask?::E
+What is data encapsulation?::E
+Describe Network Topology.::E
+What is VPN?::E
+Briefly describe NAT.::E
+What is the job of the Network Layer under the OSI reference model?::E
+How does a network topology affect your decision in setting up a network?::E
+What is RIP?::E
+What are different ways of securing a computer network?::E
+What is NIC?::E
+What is WAN?::E
+What is the importance of the OSI Physical Layer?::E
+How many layers are there under TCP/IP?::E
+What are proxy servers and how do they protect computer networks?::E
+What is the function of the OSI Session Layer?::E
+What is the importance of implementing a Fault Tolerance System? Are there limitations?::E
+What does 10Base-T mean?::E
+What is a private IP address?::E
+What is NOS?::E
+What is DoS?::E
+What is OSI and what role does it play in computer networks?::E
+What is the purpose of cables being shielded and having twisted pairs?::E
+What is the advantage of address sharing?::E
+What are MAC addresses?::E
+What is the equivalent layer or layers of the TCP/IP Application layer in terms of OSI reference model?::E
+How can you identify the IP class of a given IP address?::E
+What is the main purpose of OSPF?::M
+What are firewalls?::M
+Describe star topology.::M
+What are gateways?::M
+What is the disadvantage of a star topology?::M
+What is SLIP?::M
+Give some examples of private network addresses.::M
+What is tracert?::M
+What are the functions of a network administrator?::M
+Describe at one disadvantage of a peer to peer network.::M
+What is Hybrid Network?::M
+What is DHCP?::M
+What is the main job of the ARP?::M
+What is TCP/IP?::M
+How can you manage a network using a router?::M
+What protocol can be applied when you want to transfer files between different platforms, such between UNIX systems and Windows servers?::M
+What is the use of a default gateway?::M
+One way of securing a network is through the use of passwords. What can be considered as good passwords?::M
+What is the proper termination rate for UTP cables?::M
+What is netstat?::M
+What is the number of network IDs in a Class C network?::M
+What happens when you use cables longer than the prescribed length?::M
+What common software problems can lead to network defects?::M
+What is ICMP?::M
+What is Ping?::M
+What is peer to peer?::M
+What is DNS?::M
+What advantages does fiber optics have over other media?::M
+What is the difference between a hub and a switch?::M
+What are the different network protocols that are supported by Windows RRAS services?::M
+What are the maximum networks and hosts in a class A, B and C network?::M
+What is the standard color sequence of a straight-through cable?::M
+What protocols fall under the Application layer of the TCP/IP stack?::M
+You need to connect two computers for file sharing. Is it possible to do this without using a hub or router?::M
+What is ipconfig?::M
+What is the difference between a straight-through and crossover cable?::M
+What is client/server?::M
+Describe networking.::M
+When you move the NIC cards from one PC to another PC, does the MAC address gets transferred as well?::M
+Explain clustering support::M
+In a network that contains two servers and twenty workstations, where is the best place to install an Anti-virus program?::M
+Describe Ethernet.::H
+What are some drawbacks of implementing a ring topology?::H
+What is the difference between CSMA/CD and CSMA/CA?::H
+What is SMTP?::H
+What is multicast routing?::H
+What is the importance of Encryption on a network?::H
+How are IP addresses arranged and displayed?::H
+Explain the importance of authentication.::H
+What do mean by tunnel mode?::H
+What are the different technologies involved in establishing WAN links?::H
+What is one advantage of mesh topology?::H
+When troubleshooting computer network problems, what common hardware-related problems can occur?::H
+What can be done to fix signal attenuation problems?::H
+How does dynamic host configuration protocol aid in network administration?::H
+Explain profile in terms of networking concept?::H
+What is sneakernet?::H
+What is the role of IEEE in computer networking?::H
+What protocols fall under the TCP/IP Internet Layer?::H
+When it comes to networking, what are rights?::H
+What is one basic requirement for establishing VLANs?::H
+What is IPv6?::H
+What is RSA algorithm?::H
+What is mesh topology?::H
+what is the maximum segment length of a 100Base-FX network?::HWhat is Data Link Layer?::E
